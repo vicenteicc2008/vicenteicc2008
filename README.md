@@ -1,7 +1,7 @@
 ### Hola todos 👋
 
 Tengo 14 años y soy de Vallenar (Chile) pero nacido en La Serena
-actualmente me dedico a portar EDK2 (UEFI) a celulares y tablets y crear Sistemas Operativos para celulares y tablets y juegos.
+actualmente me dedico a portar EDK2 (UEFI) a celulares y tablets y crear Sistemas Operativos para celulares y tablets y crear juegos.
 
 soy programador, hacker y gamer.
 
