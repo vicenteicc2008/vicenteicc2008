@@ -5,7 +5,7 @@ Tengo 15 años y soy de Vallenar (Chile) pero nacido en La Serena (Chile), actua
 soy programador, hacker y gamer.
 
 como me pueden encontrar?
- - me pueden encontrar en [Vicente89114566](https://twitter.com/Vicente89114566) o [Telegram](https://t.me/vicenteicc2008) o vicenteiñakicortes en discord
+ - me pueden encontrar en [Vicente89114566](https://twitter.com/Vicente89114566) o en [Telegram](https://t.me/vicenteicc2008) o en [Discord](https://discord.gg/ED6VYqXJND)
 <!--
 **vicenteicc2008/vicenteicc2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
