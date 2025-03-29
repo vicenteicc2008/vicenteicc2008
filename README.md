@@ -5,7 +5,7 @@ Tengo 16 años y soy de Vallenar (Chile) pero nacido en La Serena (Chile), actua
 soy programador, hacker, gamer y pronto seré cantante de trap y reggaetón.
 
 como me pueden encontrar?
- - me pueden encontrar en [Vicente89114566](https://twitter.com/Vicente89114566) o en [Telegram](https://t.me/vicenteicc2008) o en [Discord](https://discord.gg/2qddUNgydg)
+ - me pueden encontrar en [Vicente89114566](https://twitter.com/Vicente89114566) o en [Discord](https://discord.gg/2qddUNgydg)
 <!--
 **vicenteicc2008/vicenteicc2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
