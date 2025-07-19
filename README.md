@@ -4,7 +4,7 @@ Tengo 17 años y soy de Vallenar (Chile) pero nacido en La Serena (Chile), actua
 
 soy programador, hacker, gamer y pronto seré cantante de trap y reggaetón.
 
-yo estoy trabajando en [edk2-goyavewifi](https://github.com/vicenteicc2008/edk2-goyavewifi)
+- 🔭 yo estoy trabajando en [edk2-goyavewifi](https://github.com/vicenteicc2008/edk2-goyavewifi)
 
 como me pueden encontrar?
  - me pueden encontrar en [Vicente89114566](https://twitter.com/Vicente89114566) o en [Discord](https://discord.gg/2qddUNgydg)
