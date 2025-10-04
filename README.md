@@ -7,7 +7,7 @@ soy programador, hacker, gamer y pronto seré cantante de trap y reggaetón.
 - 🔭 yo estoy trabajando en [edk2-goyavewifi](https://github.com/vicenteicc2008/edk2-goyavewifi)
 
 como me pueden encontrar?
- - me pueden encontrar en [Vicente89114566](https://twitter.com/Vicente89114566) o en [Discord](https://discord.gg/2qddUNgydg)
+ - me pueden encontrar en [Vicente89114566](https://twitter.com/Vicente89114566), en [Discord](https://discord.gg/2qddUNgydg) o en [XDA](https://xdaforums.com/m/dodo-vi-c.9359473/)
 
 ### Hello everyone
 I'm 17 years old and from Vallenar (Chile) but born in La Serena (Chile). I currently work on porting EDK2 (UEFI) to phones and tablets, creating operating systems for phones and tablets, and creating games. I'm a fan of Real Hasta La Muerte (Anuel AA).
@@ -16,7 +16,7 @@ I'm a programmer, hacker, gamer, and soon-to-be trap and reggaeton singer.
  - 🔭 I’m currently working on [edk2-goyavewifi](https://github.com/vicenteicc2008/edk2-goyavewifi)
 
 How can you find me?
-- You can find me at [Vicente89114566](https://twitter.com/Vicente89114566) or [Discord](https://discord.gg/2qddUNgydg)
+- You can find me at [Vicente89114566](https://twitter.com/Vicente89114566), [Discord](https://discord.gg/2qddUNgydg) or [XDA](https://xdaforums.com/m/dodo-vi-c.9359473/)
 
 <!--
 **vicenteicc2008/vicenteicc2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
